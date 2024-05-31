@@ -8,11 +8,11 @@
 
 - 👯 I’m looking to collaborate on **Software Developing**
 
-- 👨‍💻 All of my projects are available at [verlinof.rf.gd](verlinof.rf.gd)
+- 👨‍💻 All of my projects are available at [verlinofajri.xyz](verlinofajri.xyz)
 
-- 💬 Ask me about **Laravel**
+- 💬 Ask me about **Backend Development**
 
-- 📫 How to reach me **verlinorayafajri@mail.ugm.ac.id**
+- 📫 How to reach me **verlinofajri.work@gmail.com**
 
 - 📄 Know about my experiences [https://id.linkedin.com/in/verlino-raya-fajri](https://id.linkedin.com/in/verlino-raya-fajri)
 

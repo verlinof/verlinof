@@ -70,7 +70,7 @@
     />
   </a>
 </p>
-<p>Cloud and DevOps</p>
+<h3>Cloud and DevOps</h3>
 <p align="left">
   <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
     <img

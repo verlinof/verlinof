@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Software Engineer from Indonesia</h3>
 
 - 🌱 I’m currently learning **Laravel, Node Js, Golang** - 👨‍💻 All of my projects
-  are available at [verlinofajri.xyz](verlinofajri.xyz) - 💬 Ask me about
+  are available at [https://www.verlinofajri.xyz/](https://www.verlinofajri.xyz/) - 💬 Ask me about
   **Back-End Development** - 📫 How to reach me
   **linkedin.com/in/verlino-raya-fajri**
 
